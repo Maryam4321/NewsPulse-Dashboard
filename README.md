@@ -17,7 +17,7 @@ NewsPulse Dashboard merges robust technology and comprehensive news coverage, al
 
 **Persistent Settings:** Non-intrusive support for anonymous users to save preferences.
 
-**Real-Time Updates: **Stay informed with immediate news updates.
+**Real-Time Updates:** Stay informed with immediate news updates.
 
 **User Accounts:** Secure authentication and personalized profile management.
 
