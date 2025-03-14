@@ -1,4 +1,4 @@
-# [NewsPulse-Dashboard App](https://up2date-xi.vercel.app/about)
+# [NewsPulse-Dashboard App]
 
 # Version 1.1.0
 
